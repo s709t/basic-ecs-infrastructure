@@ -1,4 +1,4 @@
-# boudless-interview
+# boundless-interview
 
 ### Terraform modules:
 
