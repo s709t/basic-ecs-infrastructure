@@ -1,5 +1,4 @@
-# boundless-interview
-
+# Basic ECS Infrastructure
 ### Terraform modules:
 
 - ./ecr ( creates ECR Repository and lifecycle)
